@@ -21,7 +21,6 @@ fourthButton = "BUTTON NAME/QUESTION"
 
 
 def start(update, context):
-
     buttons = [[KeyboardButton(firstButton)], 
     [KeyboardButton(secondButton)],
     [KeyboardButton(thirdButton)],
